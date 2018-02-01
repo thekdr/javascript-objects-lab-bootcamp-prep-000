@@ -1,4 +1,4 @@
-var recipe = {
+var recipes = {
   ingredient: "amount",
 };
 
